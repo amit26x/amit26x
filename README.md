@@ -4,18 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Gupta!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Data Analyst | Data Scientist from India</h3>
 
 <br/>
 
 
 <div align="center">
  
- 🔭 I’m currently working on **Back-End Development**
+ 🔭 I’m currently working on **Data Analysis & Data Vizualization**
  
- 🌱 I’m currently learning **MERN, Node.js**
+ 🌱 I’m currently learning **SQL, POWER BI**
 
-💬 Ask me about **Node.js, React, JavaScript...**
+💬 Ask me about **SQL, Python, POWER BI, MS Excel**
 
 ⚡ Fun fact **I Don;t Give A Bug!**
 
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git," />
+    <img src="https://skillicons.dev/icons?i=python,javascript,SQL, Ms Excel, mysql" /><br>
 </div>
 
 
