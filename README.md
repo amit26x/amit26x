@@ -31,6 +31,10 @@
   <a href="https://inkedin.com/in/amit-gupta-546b3b282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a>
+        <a href="https://github.com/in/amit26x" target="_blank">
+        <img src="https://img.shields.io/badge/Github-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
 </div>
 
 
