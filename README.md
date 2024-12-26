@@ -6,7 +6,7 @@
 
 ## 🚀 Data Analyst | Data Scientist | Data Engineer focusing on applied AI
 
-📍 **Singapore**  
+📍 **India**  
 📧 **Email:** [amit2606.gupta@gmail.com](mailto:amit2606.gupta@gmail.com)  
 🔗 **LinkedIn:** [amit](https://linkedin.com/in/amit2026gupta)  
 👨‍💻 **GitHub:** [amit26x](https://github.com/amit26x)
