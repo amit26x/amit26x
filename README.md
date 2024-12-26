@@ -4,49 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Gupta!;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst | Data Scientist from India</h3>
+## 🚀 Data Analyst | Data Scientist | Data Engineer focusing on applied AI
 
-<br/>
-
-
-<div align="center">
- 
- 🔭 I’m currently working on **Data Analysis & Data Vizualization**
- 
- 🌱 I’m currently learning **SQL, POWER BI**
-
-💬 Ask me about **SQL, Python, POWER BI, MS Excel**
-
-⚡ Fun fact **I Don;t Give A Bug!**
-
- </div>
+📍 **Singapore**  
+📧 **Email:** [amit2606.gupta@gmail.com](mailto:amit2606.gupta@gmail.com)  
+🔗 **LinkedIn:** [amit](https://linkedin.com/in/amit2026gupta)  
+👨‍💻 **GitHub:** [amit26x](https://github.com/amit26x)
 
 
+### About Me 🌐
+Aspiring Data Analyst | Passionate About Turning Data into Insights | Proficient in Excel, SQL, Big Data, and Python.
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks & Libraries:** PyTorch, Pandas, NumPy, TensorFlow, SciPy, Matplotlib
+- **Data Visualization:** Tableau, Power BI, ggplot2, Seaborn
+- **Tools:** AWS, Git, Jupyter Notebook, Google Colab, MS Excel
 
 
-<div align="center"> 
-  <a href="mailto:amit2606.gupta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://inkedin.com/in/amit-gupta-546b3b282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a>
-        <a href="https://github.com/in/amit26x" target="_blank">
-        <img src="https://img.shields.io/badge/Github-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-    </a>
-</div>
+### Education 🎓
+- **Bachelors of Technology**, Galgotias University
 
+### Certifications 📜
+- **HackerRank:** Python, SQL
+- **Udemy:** MS Excel(Advance)
 
-
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git," />
-    <img src="https://skillicons.dev/icons?i=python,javascript,SQL, Ms Excel, mysql" /><br>
-</div>
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
 
 
 
